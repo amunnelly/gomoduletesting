@@ -1,3 +1,3 @@
-module github.com/amunnelly/gomoduletest
+module github.com/amunnelly/gomoduletesting
 
 go 1.13

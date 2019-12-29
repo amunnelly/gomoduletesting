@@ -1,7 +1,7 @@
 package main
 
 import (
-	"first"
+	"github.com/amunnelly/gomoduletesting/first"
 	"fmt"
 )
 
